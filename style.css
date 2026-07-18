@@ -1,0 +1,15 @@
+body{
+
+    background-color: rgb(144, 249, 249);
+    color: rgb(31, 28, 28);
+
+}
+td{
+    border: 2px solid grey;
+}
+th{
+    border: 2px solid black;
+}
+td{
+    border: 2px solid brown;
+}
